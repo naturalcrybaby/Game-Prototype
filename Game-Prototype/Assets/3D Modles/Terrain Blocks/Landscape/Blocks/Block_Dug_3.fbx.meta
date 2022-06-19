@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: faf44fd60afad40409fbef0ece789593
+guid: b516254acbdfa4595a76e0639c3435c4
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: CubeTileset
-    second: {fileID: 2100000, guid: 1074ee250c48d4a8693f7653fc3961f7, type: 2}
+      name: TestTerrain
+    second: {fileID: 2100000, guid: 38ebf766fe8254b3c8e98d6be9947d5a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
