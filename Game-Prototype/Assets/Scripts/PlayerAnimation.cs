@@ -49,16 +49,7 @@ public class PlayerAnimation : MonoBehaviour
 
         if (!animator.GetCurrentAnimatorStateInfo(0).IsName(stateName)) animator.Play(stateName);
         
-        Billboard(transform, cam);
     }
 
-    public void Billboard(Transform character, Camera mainCamera)
-    {
-        var dir = plane.position - mainCamera.transform.position;
-        var LookAtRotation = Quaternion.LookRotation(dir);
-    
-        var LookAtRotationOnly_Y = Quaternion.Euler(character.rotation.eulerAngles.x, LookAtRotation.eulerAngles.y,character.eulerAngles.z);
-        character.rotation = LookAtRotationOnly_Y;
-    }
 
 }
