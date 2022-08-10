@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 288812028607312934}
   - component: {fileID: 3723855220115028867}
   - component: {fileID: 1461767578553700169}
-  - component: {fileID: 3201071631297406405}
+  - component: {fileID: 8093549387428419799}
   m_Layer: 0
   m_Name: Grass_Block_Solo
   m_TagString: Untagged
@@ -84,8 +84,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &3201071631297406405
-MeshCollider:
+--- !u!65 &8093549387428419799
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -94,7 +94,6 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 6590327554494516867, guid: 7d33fb700bf7b46bfa8de310d53e2c38, type: 3}
+  serializedVersion: 2
+  m_Size: {x: 0.52403075, y: 0.5000123, z: 0.5400801}
+  m_Center: {x: 0.00076034665, y: 0.2499988, z: 0.0008869171}

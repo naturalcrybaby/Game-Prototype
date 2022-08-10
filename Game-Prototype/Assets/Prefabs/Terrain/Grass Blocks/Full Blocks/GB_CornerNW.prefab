@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2157873747253063360}
   - component: {fileID: 3052760122417209701}
   - component: {fileID: 988929765479486895}
-  - component: {fileID: 3863000031163891491}
+  - component: {fileID: -4272023250142504680}
   m_Layer: 0
   m_Name: GB_CornerNW
   m_TagString: Untagged
@@ -84,8 +84,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &3863000031163891491
-MeshCollider:
+--- !u!65 &-4272023250142504680
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -94,7 +94,6 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 8084551279571871967, guid: ae3af53cfaeeb4b389500154d2f73da1, type: 3}
+  serializedVersion: 2
+  m_Size: {x: 0.53062487, y: 0.50000495, z: 0.5206926}
+  m_Center: {x: -0.003840685, y: 0.25000247, z: 0.00112544}

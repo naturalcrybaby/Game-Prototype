@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6351156402408351119}
   - component: {fileID: 8037813231868209706}
   - component: {fileID: 5217696994828525280}
-  - component: {fileID: 8092330452084274284}
+  - component: {fileID: 2835115592320839323}
   m_Layer: 0
   m_Name: GB_SoloN
   m_TagString: Untagged
@@ -84,8 +84,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &8092330452084274284
-MeshCollider:
+--- !u!65 &2835115592320839323
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -94,7 +94,6 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 7569802348026164399, guid: b6a30d675b1894d8fbd0ae50cb66033f, type: 3}
+  serializedVersion: 2
+  m_Size: {x: 0.5561943, y: 0.5, z: 0.52054304}
+  m_Center: {x: 0.0011634678, y: 0.25, z: 0.01027149}
