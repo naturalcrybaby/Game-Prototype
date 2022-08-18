@@ -7,10 +7,11 @@ using UnityEngine.InputSystem;
 public abstract class InventoryDisplay : MonoBehaviour
 {
     [SerializeField] MouseItemData mouseInventoryItem;
+
     protected InventorySystem inventorySystem;
     protected Dictionary<InventorySlot_UI, InventorySlot> slotDictionary; // Pair up the UI slots with the system slots.
-
     public InventorySystem InventorySystem => inventorySystem;
+    
     public Dictionary<InventorySlot_UI, InventorySlot> SlotDictionary => slotDictionary;
 
     protected virtual void Start()
@@ -18,7 +19,7 @@ public abstract class InventoryDisplay : MonoBehaviour
 
     }
 
-    public abstract void AssignSlot(InventorySystem invToDisplay); // Implemented in child classes.
+    public abstract void AssignSlot(InventorySystem invToDisplay, int offset); // Implemented in child classes.
 
     protected virtual void UpdateSlot(InventorySlot updatedSlot)
     {
