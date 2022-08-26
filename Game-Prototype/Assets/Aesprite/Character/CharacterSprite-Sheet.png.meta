@@ -279,8 +279,8 @@ TextureImporter:
         y: 960
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -296,12 +296,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 896
+        x: 64
+        y: 960
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -317,12 +317,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 896
+        x: 128
+        y: 960
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -338,12 +338,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_3
       rect:
         serializedVersion: 2
-        x: 128
-        y: 896
+        x: 192
+        y: 960
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -359,12 +359,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_4
       rect:
         serializedVersion: 2
-        x: 192
-        y: 896
+        x: 256
+        y: 960
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -380,12 +380,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_5
       rect:
         serializedVersion: 2
-        x: 256
-        y: 896
+        x: 320
+        y: 960
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -401,12 +401,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_6
       rect:
         serializedVersion: 2
-        x: 320
+        x: 0
         y: 896
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -422,12 +422,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 832
+        x: 64
+        y: 896
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -443,12 +443,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 768
+        x: 128
+        y: 896
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -464,12 +464,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_9
       rect:
         serializedVersion: 2
-        x: 64
-        y: 768
+        x: 192
+        y: 896
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -485,12 +485,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_10
       rect:
         serializedVersion: 2
-        x: 128
-        y: 768
+        x: 256
+        y: 896
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -506,12 +506,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_11
       rect:
         serializedVersion: 2
-        x: 192
-        y: 768
+        x: 320
+        y: 896
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -527,12 +527,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_12
       rect:
         serializedVersion: 2
-        x: 256
-        y: 768
+        x: 0
+        y: 832
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -548,12 +548,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_13
       rect:
         serializedVersion: 2
-        x: 320
-        y: 768
+        x: 64
+        y: 832
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -569,12 +569,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_14
       rect:
         serializedVersion: 2
-        x: 0
-        y: 704
+        x: 128
+        y: 832
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -590,12 +590,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_15
       rect:
         serializedVersion: 2
-        x: 0
-        y: 640
+        x: 192
+        y: 832
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -611,12 +611,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_16
       rect:
         serializedVersion: 2
-        x: 64
-        y: 640
+        x: 256
+        y: 832
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -632,12 +632,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_17
       rect:
         serializedVersion: 2
-        x: 128
-        y: 640
+        x: 320
+        y: 832
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -653,12 +653,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_18
       rect:
         serializedVersion: 2
-        x: 192
-        y: 640
+        x: 0
+        y: 768
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -674,12 +674,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_19
       rect:
         serializedVersion: 2
-        x: 256
-        y: 640
+        x: 64
+        y: 768
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -695,12 +695,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_20
       rect:
         serializedVersion: 2
-        x: 320
-        y: 640
+        x: 128
+        y: 768
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -716,12 +716,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_21
       rect:
         serializedVersion: 2
-        x: 0
-        y: 576
+        x: 192
+        y: 768
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -737,12 +737,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_22
       rect:
         serializedVersion: 2
-        x: 0
-        y: 512
+        x: 256
+        y: 768
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -758,12 +758,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_23
       rect:
         serializedVersion: 2
-        x: 64
-        y: 512
+        x: 320
+        y: 768
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -779,12 +779,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_24
       rect:
         serializedVersion: 2
-        x: 128
-        y: 512
+        x: 0
+        y: 704
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -800,12 +800,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_25
       rect:
         serializedVersion: 2
-        x: 192
-        y: 512
+        x: 64
+        y: 704
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -821,12 +821,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_26
       rect:
         serializedVersion: 2
-        x: 256
-        y: 512
+        x: 128
+        y: 704
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -842,12 +842,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_27
       rect:
         serializedVersion: 2
-        x: 320
-        y: 512
+        x: 192
+        y: 704
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -863,12 +863,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_28
       rect:
         serializedVersion: 2
-        x: 0
-        y: 448
+        x: 256
+        y: 704
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -884,12 +884,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_29
       rect:
         serializedVersion: 2
-        x: 0
-        y: 384
+        x: 320
+        y: 704
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -905,12 +905,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_30
       rect:
         serializedVersion: 2
-        x: 64
-        y: 384
+        x: 0
+        y: 640
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -926,12 +926,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_31
       rect:
         serializedVersion: 2
-        x: 128
-        y: 384
+        x: 64
+        y: 640
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -947,12 +947,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_32
       rect:
         serializedVersion: 2
-        x: 192
-        y: 384
+        x: 128
+        y: 640
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -968,12 +968,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_33
       rect:
         serializedVersion: 2
-        x: 256
-        y: 384
+        x: 192
+        y: 640
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -989,12 +989,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_34
       rect:
         serializedVersion: 2
-        x: 320
-        y: 384
+        x: 256
+        y: 640
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1010,12 +1010,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_35
       rect:
         serializedVersion: 2
-        x: 0
-        y: 320
+        x: 320
+        y: 640
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1032,11 +1032,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 256
+        y: 576
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1053,11 +1053,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 256
+        y: 576
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1074,11 +1074,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 256
+        y: 576
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1095,11 +1095,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 256
+        y: 576
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1116,11 +1116,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 256
+        y: 576
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1137,11 +1137,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 256
+        y: 576
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1158,11 +1158,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 192
+        y: 512
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1178,12 +1178,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_43
       rect:
         serializedVersion: 2
-        x: 0
-        y: 128
+        x: 64
+        y: 512
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1199,12 +1199,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_44
       rect:
         serializedVersion: 2
-        x: 64
-        y: 128
+        x: 128
+        y: 512
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1220,12 +1220,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_45
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
+        x: 192
+        y: 512
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1241,12 +1241,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_46
       rect:
         serializedVersion: 2
-        x: 192
-        y: 128
+        x: 256
+        y: 512
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1262,12 +1262,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_47
       rect:
         serializedVersion: 2
-        x: 256
-        y: 128
+        x: 320
+        y: 512
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1283,12 +1283,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_48
       rect:
         serializedVersion: 2
-        x: 320
-        y: 128
+        x: 0
+        y: 448
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1304,12 +1304,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_49
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
+        x: 64
+        y: 448
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1325,12 +1325,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_50
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 128
+        y: 448
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1346,12 +1346,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_51
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
+        x: 192
+        y: 448
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1367,12 +1367,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_52
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
+        x: 256
+        y: 448
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1388,12 +1388,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_53
       rect:
         serializedVersion: 2
-        x: 192
-        y: 0
+        x: 320
+        y: 448
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1409,12 +1409,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_54
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
+        x: 0
+        y: 384
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1430,12 +1430,12 @@ TextureImporter:
       name: CharacterSprite-Sheet_55
       rect:
         serializedVersion: 2
-        x: 320
-        y: 0
+        x: 64
+        y: 384
         width: 64
         height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1443,6 +1443,846 @@ TextureImporter:
       bones: []
       spriteID: 577b089d213fdb210800000000000000
       internalID: 1350502725565069173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02b65a728eea454f8bf372ccb637030
+      internalID: -1152064356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2934e593b41754b7094d9ebb10ceb546
+      internalID: 535729176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9279c310d834032a2b9a8a880bdd13
+      internalID: -674134135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3e7283bb9ca4ff986b29aec26b2fe4
+      internalID: 469087873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836fb3ccd209749d080c95844bdab850
+      internalID: -533577847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287e5fcf0bbba490cb6c0293a45edade
+      internalID: -1892476340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5028ae65b7b01420ea92e17dba7468fd
+      internalID: -615021689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135616c90135c4100ad86373c152bd3a
+      internalID: -1955723383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407b1cc9277a34827832357a67d61ff5
+      internalID: 156446595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199ef02b4fc17443da46a76908baa2bd
+      internalID: 2048585048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f7b1dffd47a4b90ac6e02f445f3ff2
+      internalID: 1679745181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e9d10ac73ab4c3eab52a5c7543eec1
+      internalID: -1285335523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ce59b79373448f1bd0440f87e04bcf
+      internalID: -922809828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ba706f02f3440f9ba726c8aa00a1c6
+      internalID: 2117142712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9880ba7d85143f7b43afc6c31ec1bd
+      internalID: 253292799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e718c85546cb648eab865097365c12c7
+      internalID: -510040509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76113bbb45404485a9657d42fc55e54c
+      internalID: 331174314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f906b1d3365748f982b026d19f00986
+      internalID: -2103769306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4378ab0780f417b8e808493ebd16dd
+      internalID: -1104625680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92da974e1c45243dd8b7ac15c32664f1
+      internalID: -1967134071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82feaac104a104d46940f3f94b23b7c2
+      internalID: 1593651346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6014640c9919c4d2da05bb7a647e5c6d
+      internalID: 1407970376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc473ae85d28c435f8174a6eca5d7aa4
+      internalID: 1443635733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b41e959d52c41c687c84f6d35d896e
+      internalID: 275484926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef1e5b88bf214083b032c034768f785
+      internalID: 1166010510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3dee901a0754702bb0ced0c0731bcf
+      internalID: 1412867887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e2bec70953d4c39ae2bbde1fb3423e
+      internalID: 722379133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4d8ba99c00f4b559ba796356edeb4b
+      internalID: -1975936936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20c1a02d614d47c383dc5d58b218ac2
+      internalID: 712173779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe691c37afec74e719c6173cecba092c
+      internalID: 1230625354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd47662f18844f768658f4879399aa4
+      internalID: -1331598262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4343646b70334fd9a60186195416691
+      internalID: -566661776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86590f140e520461099f413d940a6e9c
+      internalID: -1346329743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dec619f158b4f16a995ee689f4d49b
+      internalID: 1804315417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d7ab77bd3484cc799235d9a61e7370
+      internalID: -688121775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99877e01f04a640fba775220f0161882
+      internalID: 304450522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4d99e64cd4f462987284e238b97327
+      internalID: -604405681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477d17f480e58458696dd98b0339f90d
+      internalID: -1702694830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4635f538f6f040129532a67c3cbcc84
+      internalID: 349121512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSprite-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ff256d638a64df1af5667e8da3bf71
+      internalID: 181888143
       vertices: []
       indices: 
       edges: []
@@ -1458,62 +2298,102 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      CharacterSprite-Sheet_72: 331174314
+      CharacterSprite-Sheet_75: -1967134071
+      CharacterSprite-Sheet_79: 275484926
       CharacterSprite-Sheet_22: -6565332771294502217
       CharacterSprite-Sheet_9: -7410534252725315315
-      CharacterSprite-Sheet_34: 3905246698949761271
-      CharacterSprite-Sheet_15: -1849346717643501413
-      CharacterSprite-Sheet_48: 6102650908331957596
+      CharacterSprite-Sheet_57: 535729176
+      CharacterSprite-Sheet_86: -1331598262
+      CharacterSprite-Sheet_63: -1955723383
       CharacterSprite-Sheet_16: 2181621285458697281
       CharacterSprite-Sheet_19: -7427924001240462256
-      CharacterSprite-Sheet_54: 367410862691212924
       CharacterSprite-Sheet_52: -3015455326423253541
-      CharacterSprite-Sheet_6: -8187276785991493223
-      CharacterSprite-Sheet_4: 525996546413404298
-      CharacterSprite-Sheet_32: -4681403033828903632
       CharacterSprite-Sheet_45: 6807524364391608875
       CharacterSprite-Sheet_53: 5636121342388581343
-      CharacterSprite-Sheet_5: -7981532114965424811
-      CharacterSprite-Sheet_39: -2925501576216056643
+      CharacterSprite-Sheet_90: -688121775
       CharacterSprite-Sheet_23: -1357647689920871667
-      CharacterSprite-Sheet_12: -677654628428090010
-      CharacterSprite-Sheet_33: -8284989750264493231
+      CharacterSprite-Sheet_85: 1230625354
+      CharacterSprite-Sheet_80: 1166010510
       CharacterSprite-Sheet_27: 3600452237033742899
       CharacterSprite-Sheet_51: 6144568167456694099
+      CharacterSprite-Sheet_61: -1892476340
+      CharacterSprite-Sheet_81: 1412867887
+      CharacterSprite-Sheet_91: 304450522
       CharacterSprite-Sheet_35: 1772715525759650686
+      CharacterSprite-Sheet_94: 349121512
       CharacterSprite-Sheet_30: -254302389607289408
-      CharacterSprite-Sheet_42: 5994971069859675500
+      CharacterSprite-Sheet_77: 1407970376
+      CharacterSprite-Sheet_78: 1443635733
       CharacterSprite-Sheet_29: 5721225912851132023
       CharacterSprite-Sheet_43: 8206489273618171450
-      CharacterSprite-Sheet_31: 8597330795957094632
+      CharacterSprite-Sheet_83: -1975936936
       CharacterSprite-Sheet_28: 4907083545334285533
       CharacterSprite-Sheet_11: 2720866328845141379
       CharacterSprite-Sheet_41: -8868541828757003004
       CharacterSprite-Sheet_20: 4634992553059950020
+      CharacterSprite-Sheet_60: -533577847
+      CharacterSprite-Sheet_93: -1702694830
       CharacterSprite-Sheet_2: 8357928841181455285
-      CharacterSprite-Sheet_24: -8243275723874454510
-      CharacterSprite-Sheet_26: 506432746934353664
-      CharacterSprite-Sheet_1: -2135094848197551261
-      CharacterSprite-Sheet_37: -4633098399725804728
-      CharacterSprite-Sheet_49: -4514767833776887594
       CharacterSprite-Sheet_18: -2030070653161387761
       CharacterSprite-Sheet_25: -4198867523993754179
       CharacterSprite-Sheet_36: -2869069825557967283
       CharacterSprite-Sheet_14: -3676450597561757488
       CharacterSprite-Sheet_46: 6867775485697326104
+      CharacterSprite-Sheet_65: 2048585048
       CharacterSprite-Sheet_38: -1303994478977147803
-      CharacterSprite-Sheet_0: -1682327012779596569
-      CharacterSprite-Sheet_44: -4159420357201316647
+      CharacterSprite-Sheet_69: 2117142712
       CharacterSprite-Sheet_7: 1765526978575538703
-      CharacterSprite-Sheet_10: -5900199702021512788
       CharacterSprite-Sheet_17: -2605424767015982948
       CharacterSprite-Sheet_55: 1350502725565069173
       CharacterSprite-Sheet_47: 5404656602467469591
       CharacterSprite-Sheet_40: 3133575979910975506
-      CharacterSprite-Sheet_21: 6867468283640728605
-      CharacterSprite-Sheet_3: -5451088207068910166
       CharacterSprite-Sheet_50: -8753065004687746606
+      CharacterSprite-Sheet_3: -5451088207068910166
+      CharacterSprite-Sheet_59: 469087873
       CharacterSprite-Sheet_8: -517095764873349762
       CharacterSprite-Sheet_13: 6466092826822909768
+      CharacterSprite-Sheet_68: -922809828
+      CharacterSprite-Sheet_34: 3905246698949761271
+      CharacterSprite-Sheet_89: 1804315417
+      CharacterSprite-Sheet_15: -1849346717643501413
+      CharacterSprite-Sheet_48: 6102650908331957596
+      CharacterSprite-Sheet_54: 367410862691212924
+      CharacterSprite-Sheet_73: -2103769306
+      CharacterSprite-Sheet_95: 181888143
+      CharacterSprite-Sheet_6: -8187276785991493223
+      CharacterSprite-Sheet_76: 1593651346
+      CharacterSprite-Sheet_4: 525996546413404298
+      CharacterSprite-Sheet_32: -4681403033828903632
+      CharacterSprite-Sheet_5: -7981532114965424811
+      CharacterSprite-Sheet_67: -1285335523
+      CharacterSprite-Sheet_39: -2925501576216056643
+      CharacterSprite-Sheet_12: -677654628428090010
+      CharacterSprite-Sheet_62: -615021689
+      CharacterSprite-Sheet_33: -8284989750264493231
+      CharacterSprite-Sheet_42: 5994971069859675500
+      CharacterSprite-Sheet_84: 712173779
+      CharacterSprite-Sheet_31: 8597330795957094632
+      CharacterSprite-Sheet_49: -4514767833776887594
+      CharacterSprite-Sheet_58: -674134135
+      CharacterSprite-Sheet_82: 722379133
+      CharacterSprite-Sheet_24: -8243275723874454510
+      CharacterSprite-Sheet_71: -510040509
+      CharacterSprite-Sheet_1: -2135094848197551261
+      CharacterSprite-Sheet_26: 506432746934353664
+      CharacterSprite-Sheet_37: -4633098399725804728
+      CharacterSprite-Sheet_88: -1346329743
+      CharacterSprite-Sheet_64: 156446595
+      CharacterSprite-Sheet_66: 1679745181
+      CharacterSprite-Sheet_70: 253292799
+      CharacterSprite-Sheet_0: -1682327012779596569
+      CharacterSprite-Sheet_56: -1152064356
+      CharacterSprite-Sheet_44: -4159420357201316647
+      CharacterSprite-Sheet_87: -566661776
+      CharacterSprite-Sheet_10: -5900199702021512788
+      CharacterSprite-Sheet_92: -604405681
+      CharacterSprite-Sheet_74: -1104625680
+      CharacterSprite-Sheet_21: 6867468283640728605
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -16,6 +16,6 @@ MonoBehaviour:
   DisplayName: Tomato
   Description: This is a tomato.
   Icon: {fileID: 21300000, guid: 47af68a1c5c2742f988db528456a83b4, type: 3}
-  MaxStackSize: 5
-  GoldValue: 0
+  MaxStackSize: 32
+  GoldValue: 20
   ItemPrefab: {fileID: 9126855224089008092, guid: 9cb92da64f69d424da9d16759dd4c0f1, type: 3}

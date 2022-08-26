@@ -29,11 +29,11 @@ public class UniqueID : MonoBehaviour
         if (idDatabase.ContainsKey(_id)) idDatabase.Remove(_id);
     }
 
+    [ContextMenu("Generate ID")]
     private void Generate()
     {
         _id = Guid.NewGuid().ToString();
         idDatabase.Add(_id, this.gameObject);
-        Debug.Log(idDatabase.Count);
     }
 }
  
